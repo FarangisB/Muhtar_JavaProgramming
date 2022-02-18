@@ -49,7 +49,4 @@ public class ListIntro {
     public synchronized void method1(){
 
     }
-
-
-
 }
